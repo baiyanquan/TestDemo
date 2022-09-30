@@ -12,7 +12,7 @@
   "dependencies": {
     "axios": "^0.15.3",
     "babel-polyfill": "^6.23.0",
-    "d3": "^4.13.0",
+    "d3": "^7.6.1",
     "echarts": "^4.1.0",
     "element-ui": "2.3.3",
     "jquery": "^3.3.1",
